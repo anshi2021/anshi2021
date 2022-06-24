@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sriyanshi. 
 ✈️ Hire me for remote work & internships
-💼 Do read my resume here: 
 🎓 Pursuing B.Tech in Computer Science and Engineering
 📚 Reading more about Algorithms,Machine Learning and how the big data works.
 ⛵ Encouraging people for open source collaborations on innovative ideas and projects.
