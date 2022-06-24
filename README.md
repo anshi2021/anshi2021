@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @anshi2021
-- 👀 I’m interested in web designing, machine learning, python developer, data science and designing robotics including iot.
-- 🌱 I’m currently learning machine learning through which i can work on real life and time based projects.
-- 💞️ I’m looking to collaborate on developing projects, commit changes, and on designing projects.
-- Worked as an App Developer as it encourages me to develop my real life idea into an working module.
-My skill sets are:
-Full stack developer: HTML,CSS,JS,REACT.JS,NODE.JS,NGINIX,PYTHON,PHP,GCP,AWS,MS AZURE,MYSQL.
-Programming language: PYTHON,JAVA,FLUTTER.
-MACHINE LEARNING AND DATA SCIENCE IN PYTHON.
+- 👋 Hi, I’m Sriyanshi. 
+✈️ Hire me for remote work & internships
+💼 Do read my resume here: 
+🎓 Pursuing B.Tech in Computer Science and Engineering
+📚 Reading more about Algorithms,Machine Learning and how the big data works.
+⛵ Encouraging people for open source collaborations on innovative ideas and projects.
+🎉 Let's connect on LinkedIn
+📭 contact https://www.linkedin.com/in/sriyanshi-sinha-409499241
+✍🏻 I write my personal thoughts on Programming & Tech on on my Personal Blog
+In the free time I do some stuffs like reading, mine some baby coins and write algos.
+🕵 Take a look at my repositories and let's get in touch!
